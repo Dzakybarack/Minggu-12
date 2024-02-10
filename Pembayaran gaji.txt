@@ -1,0 +1,3 @@
+kaka BulanTahun: Januari2023 Gaji: 20000 UpahLembur: 800 TotalGaji: 20800
+harun BulanTahun: Januari2023 Gaji: 120000 UpahLembur: 6000 TotalGaji: 126000
+burhan BulanTahun: Januari2023 Gaji: 100000 UpahLembur: 5000 TotalGaji: 105000

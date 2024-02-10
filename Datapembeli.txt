@@ -1,0 +1,2 @@
+jakarta,jakarta,4,120000,22-3-2003
+jakarta,jakarta,10,300000,22-08-2005
